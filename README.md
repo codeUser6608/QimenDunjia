@@ -8,28 +8,9 @@
 
 ## 应用展示
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px; margin: 20px 0;">
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="images/home.png" alt="首页界面" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p>首页界面</p>
-  </div>
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="images/study.png" alt="知识学习" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p>知识学习</p>
-  </div>
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="images/paipang.png" alt="排盘功能" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p>排盘功能</p>
-  </div>
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="images/yunshi.png" alt="每日运势" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p>每日运势</p>
-  </div>
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="images/tiaozhan.png" alt="挑战模式" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p>挑战模式</p>
-  </div>
-</div>
+| 首页界面 | 知识学习 | 排盘功能 | 每日运势 | 挑战模式 |
+|---------|---------|---------|---------|---------|
+| <img src="images/home.png" alt="首页界面" width="200"> | <img src="images/study.png" alt="知识学习" width="200"> | <img src="images/paipang.png" alt="排盘功能" width="200"> | <img src="images/yunshi.png" alt="每日运势" width="200"> | <img src="images/tiaozhan.png" alt="挑战模式" width="200"> |
 
 ## 技术栈
 
