@@ -6,6 +6,31 @@
 
 奇门遁甲H5小程序是一个基于Vue 3 + Vite开发的移动端优先的术数模拟应用，旨在将深奥的奇门遁甲术数体系通过游戏化、可视化的方式呈现，降低学习门槛，让传统文化得以传承。
 
+## 应用展示
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px; margin: 20px 0;">
+  <div style="flex: 1; min-width: 200px; text-align: center;">
+    <img src="images/home.png" alt="首页界面" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p>首页界面</p>
+  </div>
+  <div style="flex: 1; min-width: 200px; text-align: center;">
+    <img src="images/study.png" alt="知识学习" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p>知识学习</p>
+  </div>
+  <div style="flex: 1; min-width: 200px; text-align: center;">
+    <img src="images/paipang.png" alt="排盘功能" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p>排盘功能</p>
+  </div>
+  <div style="flex: 1; min-width: 200px; text-align: center;">
+    <img src="images/yunshi.png" alt="每日运势" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p>每日运势</p>
+  </div>
+  <div style="flex: 1; min-width: 200px; text-align: center;">
+    <img src="images/tiaozhan.png" alt="挑战模式" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p>挑战模式</p>
+  </div>
+</div>
+
 ## 技术栈
 
 - **前端框架**: Vue 3 (Composition API)
